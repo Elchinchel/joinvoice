@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*py.class
+
+# Packaging
+*.egg-info/
+dist/
+
+# Environments
+.env
+.venv
+env/
+venv/
+bin/
+src/
+lib/
+lib64/
+lib64
+share/
+include/
+pyvenv.cfg
+
+# Tools
+.vscode/
+.mypy_cache/
+.pytest_cache/
+.coverage
+
+# profiling
+*.prof
+
+# local folders
+/local
+/docs/local
+
+# Other
+/test.py
+upload.bat
+coverage.lcov
